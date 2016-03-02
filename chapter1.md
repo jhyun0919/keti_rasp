@@ -1,3 +1,5 @@
-# First Chapter
+# 02 MARCH 2016
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+* echo : allows output into the screen
+    >echo LANG
+    >echo $LANG
