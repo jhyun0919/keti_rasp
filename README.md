@@ -1,3 +1,3 @@
-# My Awesome Book
+# Intro
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+Records of study following the precedent research notes (https://www.gitbook.com/book/trivi9ri/keti/details).
